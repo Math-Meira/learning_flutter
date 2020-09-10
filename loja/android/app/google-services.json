@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "954870880304",
+    "firebase_url": "https://loja-deaaa.firebaseio.com",
+    "project_id": "loja-deaaa",
+    "storage_bucket": "loja-deaaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954870880304:android:f0a7c863f8317506e2f5f5",
+        "android_client_info": {
+          "package_name": "br.com.mathmeira.loja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954870880304-9o7qbnrm01s32od3ndd1otpdcui3rgv2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.mathmeira.loja",
+            "certificate_hash": "754c8cbf439b316fdde10814620ed3bba04b5fcb"
+          }
+        },
+        {
+          "client_id": "954870880304-h2r0tks3el32c2op82c0rl5m7n0se46v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgG_5AEFMPUCXhI9tGVZkp4SNZ47gjsFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954870880304-h2r0tks3el32c2op82c0rl5m7n0se46v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
